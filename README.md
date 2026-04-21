@@ -29,7 +29,6 @@ A machine learning project that classifies emails as **Spam** or **Ham (Not Spam
 spam_classifier/
 │── app.py / main.py      # Main script
 │── spam.csv              # Dataset
-│── requirements.txt      # Dependencies
 │── README.md
 ```
 
